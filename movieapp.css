@@ -3,8 +3,8 @@
   font-family: 'Arimo', sans-serif;
 }
 body{
-  background-color: #141414;
-  color: #999999;
+  background-image: url("movietheater.jpg");
+  color: white;
 }
 .container {
   margin: auto;

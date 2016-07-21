@@ -76,7 +76,7 @@ $(function() {
             //show image not available image
             img.attr('src', 'img-na.png');
           } else {
-            img.attr('src', arrayElement.Poster);
+            img.attr('src', 'img-na.png');
           }
 
           a.append(img);
